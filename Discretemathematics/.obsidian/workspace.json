@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "25c0a2ba0f3adde8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a6bfab936e55d0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2228b09e565af882",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ca1bf9c23865d45",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ebfa2cb741ff33f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c51640393c2e2cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d96cdafb575a245a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bfe35421c27a9f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf3987b9fe66d899",
+    "type": "split",
+    "children": [
+      {
+        "id": "16762517b19a643c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f87e78ee72a397",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5411d58802e3943d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dec117748b1eee9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3b0e9edddd67a74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2228b09e565af882",
+  "lastOpenFiles": [
+    "Discretemathematics",
+    "构造证明方法.md",
+    "自然推理系统.md",
+    "基本概念.md",
+    "推理规则.md",
+    "命题逻辑的推理理论.md",
+    "第一部分 数理逻辑.md",
+    "2.析取范式与合取范式.md",
+    "析取范式与合取范式.md",
+    "等值演算.md",
+    "等值式模式.md",
+    "概念.md",
+    "求法.md",
+    "create a link.md"
+  ]
+}
