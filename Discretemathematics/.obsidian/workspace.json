@@ -11,8 +11,12 @@
             "id": "2228b09e565af882",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "等值式模式.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "等值式模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "等值式模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "等值式模式.md"
+              }
             }
           }
         ]
@@ -140,19 +148,19 @@
   },
   "active": "2228b09e565af882",
   "lastOpenFiles": [
-    "Discretemathematics",
-    "构造证明方法.md",
-    "自然推理系统.md",
-    "基本概念.md",
-    "推理规则.md",
-    "命题逻辑的推理理论.md",
-    "第一部分 数理逻辑.md",
-    "2.析取范式与合取范式.md",
-    "析取范式与合取范式.md",
     "等值演算.md",
-    "等值式模式.md",
     "概念.md",
     "求法.md",
+    "自然推理系统.md",
+    "析取范式与合取范式.md",
+    "推理规则.md",
+    "命题逻辑的推理理论.md",
+    "等值式模式.md",
+    "Discretemathematics",
+    "构造证明方法.md",
+    "基本概念.md",
+    "第一部分 数理逻辑.md",
+    "2.析取范式与合取范式.md",
     "create a link.md"
   ]
 }
